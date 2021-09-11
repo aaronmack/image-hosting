@@ -1,4 +1,4 @@
 # image-hosting
 
 
-Update 05
+Update 06
