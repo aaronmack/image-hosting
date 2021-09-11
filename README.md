@@ -1,4 +1,4 @@
 # image-hosting
 
 
-Update 07
+Update 08
